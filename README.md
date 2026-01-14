@@ -12,12 +12,6 @@
 <a href="https://www.youtube.com/channel/UCfruPP7UeiG7mhLMeXYO51g">
   <img align="left" alt="Nithin YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://www.instagram.com/nithin_rajulapati/">
-  <img align="left" alt="Nithin Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.snapchat.com/add/nithin_rajulapa">
-  <img align="left" alt="Nithin Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />
-</a>
 
 <br/>
 <br/>
