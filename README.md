@@ -45,8 +45,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nani1-glitch&layout=compact&theme=radical)](https://github.com/Nani1-glitch/github-readme-stats)
-
 
 <div align="center">
   
